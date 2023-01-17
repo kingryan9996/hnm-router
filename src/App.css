@@ -1,7 +1,14 @@
 .login-button {
     display: flex;
     justify-content: flex-end;
+    cursor: pointer;
+    
 }
+
+.item-list {
+    cursor: pointer;
+}
+
 
 .nav-section {
     display: flex;
@@ -22,6 +29,11 @@
 }
 
 .input-button{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.product-img{
     display: flex;
     justify-content: flex-end;
 }
